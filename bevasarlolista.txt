@@ -2,9 +2,4 @@ Kifli
 vaj
 kenyér
 csoki
-nyamikaka
-kukifej
-pukifej
-kutya kaja
-
-v3 test
+kóla
